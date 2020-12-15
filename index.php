@@ -17,7 +17,7 @@
                         </h3>
                         <form action="/generate.php" method="GET">
                             <div class="input-group">
-                                <input type="text" name="url2" class="form-control" placeholder="www.">
+                                <input type="text" name="url" class="form-control" placeholder="www.">
                                 <button type="submit" class="btn btn-primary">Generate</button>
                             </div>
                         </form>
